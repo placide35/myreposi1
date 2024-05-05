@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amiable-archive-416215",
+  "private_key_id": "dcbe049caec60e4400139efb8b138cbd13367efa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiW4VaO+lDHffO\nRjF5thOaO1LK/Cyy5rRAdDCtyKff8XIzCGm7oosqIefAwV823leP05+mlhIKy9Mf\nvbqyNwm3HD4hkJ4lAOGK3WlduUZmeKHiWu6GOPYdmq2Y6V9B4jiTBBFjtZB6u48T\n7IXSb9/PO71Q2eW1mHhWmIQ4ofP3Esxo5SJXSce748ZS6gZF23FyE68WXydWF1Mo\naBzdkwUCL8/EyvNdyow2db9ClmmzYppGLF5/OjhbZYgm2EeEAUs5Ou9D81ASGV6r\nypynbhIVHUoyQSHSatkP2juhStJkw6jZdDTz+SeQahLsZKWFp9HJh8hVtbs0QlHg\nKMBi1zTbAgMBAAECggEABKOJyVy52vWRvX6K7lfR8o+sW2leG5R05PyM4YJArajX\n4vZkEvzfbgo+9WZxAn/Sz6SzxI44IL/XHeqNWYcyC13OtqXLpvIB/7Y4yvk+tjHP\nKkj/1Kzu90SSnjJYyuicRjMRDiDDaoZOXbrdzfftVJ332EYJhqk/EvZTnMyfzFjc\n/HP+TEboF+GE8/n0M0FN3bEOLnelTeu3atwRITElILkyhUMhDGQUxjyVsrSske5x\nNNhIFolcATQ57voCUX0Y1WbYNy3yS8o2fLTxv7hvJ/tHuaFk4i3be61JbV0JEUU6\ntnhTcaz+4SfjAsfUigrh+BdALqtSbmwk4oLEIgiw9QKBgQDXRQzJUcxCBtDA1Pf9\n+JV1NlJ1qqd+om7NFuIPZOQw8YU3bjLKoum9PfDqbJLWvHM4JQYquDph24O2RS1Y\nxsQBV8OPUMgg0woXbM42pMdxOs++8DB+TIPKHfCSjvXd8uuyTQzT1K+W+xdRN1jL\npYqR4kt2Y3q13UHnsTg6hOtB3QKBgQDBE5QpIk8xhQDcaNXpySMbMziGqXfYEI2/\n44Ve2aUlbcsrG6ZERoP0uqyf4yf4mSWA/OvVd+qkLfU29HlVNTgMod6CvZ9T7BJ0\nCAkefE2BsW8C0/4cpKFyrKEeWmLXSE9Rb+Sw5UKEMJiG9wiGs44+Vav6u4sw2bEC\nZSBsDhHSFwKBgES1n20qlJ2Ge17xGu6PR3UQD6XLAIck5WTEpwbu1v7gN/sHS2Lu\nONjUSm8olH3BzKzg9GTyRIAzhojI775kQu+CycKWsCn58kCj0/YRBi+X6/Mvyuql\nFXOPttewlb1v6dcRTMTYH+t63Who2Ai4H9CMgDWbbvFZW83N/PqArm5pAoGAe2Sj\n39YJfsBd2H83lv3w7cVCbu2HphKORQCHkCLQpKcSnS5CiIf4dUOIZ3apaPuXOGRr\n5DWLQ/oLKV/82zPz6j7ZEf1WAjBxaq5oBY+ziRt4svoBARVGCR/CqL9jQ+r2pjk4\nksUySYE1OaxPSqceVUAzdT6+qi22Lq2qluQ3B2kCgYB5JUPddP7U1zXrDV3UFVg2\nVCpvRaYnm31oYMvDVeMrBXoH8go06ZElkATpchmGl8q1pT/G7pwW9ShhWRNbHPz2\nMG0CjNDHikB8pP8oBjTPSxaVoyQnPrAiHRijkv3gZRt14r076n01Psd5/BH/QoD/\nW/vtMxm9avHfm3nKLealtw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terracognita1@amiable-archive-416215.iam.gserviceaccount.com",
+  "client_id": "103216852568414735575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terracognita1%40amiable-archive-416215.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

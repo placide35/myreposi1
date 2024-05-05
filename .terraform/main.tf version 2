@@ -1,0 +1,7 @@
+resource "google_storage_bucket" "bucket" {
+  name     = "my-gcp-bucket"
+  location = "US"
+  project  = "myfirstproject"
+
+  storage_class = "STANDARD"
+}
