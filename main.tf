@@ -37,4 +37,14 @@ resource "google_storage_bucket" "auto-expire" {
       type = "AbortIncompleteMultipartUpload"
     }
   }
+}resource "google_storage_bucket" "bucket" {
+  name     = "my-gcp-bucket"
+  location = "US"
+  project  = "myfirstproject"
+
+  storage_class = "STANDARD"
+}
+
+
+  
 }
